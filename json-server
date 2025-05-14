@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Peter",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "David",
+      "status": false
+    },
+    {
+      "id": "3",
+      "name": "John",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Jacob",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Khensane",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Khensane",
+      "status": true
+    }
+  ]
+}
